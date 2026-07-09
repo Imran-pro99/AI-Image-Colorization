@@ -1,8 +1,15 @@
-#  AI Image Colorization
+<h1 align="center">🎨 AI Image Colorization</h1>
 
-Automatically convert black-and-white images into realistic color images using **OpenCV's Deep Neural Network (DNN)** module and a pre-trained **Caffe** model.
+<p align="center">
+Automatically convert black & white images into realistic color images using OpenCV DNN and a pre-trained Caffe model.
+</p>
 
-> This project demonstrates the integration of Deep Learning with Computer Vision to colorize grayscale images.
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3.x-blue?logo=python">
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv">
+<img src="https://img.shields.io/badge/Deep%20Learning-Caffe-orange">
+<img src="https://img.shields.io/badge/License-MIT-yellow">
+</p>
 
 ---
 
