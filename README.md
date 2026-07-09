@@ -10,11 +10,7 @@ Automatically convert black-and-white images into realistic color images using *
 
 ### Image (Black & White)
 
-<p align="center">
-  <img src="images/img1.jpg" width="350">
-</p>
-
-### Result (Colorized)
+### Result (Black & White - Colorized)
 
 <p align="center">
   <img src="results/output_colorized.jpg" width="350">
