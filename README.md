@@ -1,4 +1,4 @@
-# 🎨 AI Image Colorization
+#  AI Image Colorization
 
 Automatically convert black-and-white images into realistic color images using **OpenCV's Deep Neural Network (DNN)** module and a pre-trained **Caffe** model.
 
@@ -6,15 +6,15 @@ Automatically convert black-and-white images into realistic color images using *
 
 ---
 
-## 📸 Preview
+##  Preview
 
-### Input (Black & White)
+### Image (Black & White)
 
 <p align="center">
   <img src="images/img1.jpg" width="350">
 </p>
 
-### Output (Colorized)
+### Result (Colorized)
 
 <p align="center">
   <img src="results/output_colorized.jpg" width="350">
@@ -22,7 +22,7 @@ Automatically convert black-and-white images into realistic color images using *
 
 ---
 
-## ✨ Features
+##  Features
 
 - Convert grayscale images into color images
 - Uses a pre-trained Deep Learning model
@@ -32,7 +32,7 @@ Automatically convert black-and-white images into realistic color images using *
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 - OpenCV
@@ -42,7 +42,7 @@ Automatically convert black-and-white images into realistic color images using *
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 AI-Image-Colorization/
@@ -59,7 +59,7 @@ AI-Image-Colorization/
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -93,7 +93,7 @@ After downloading the files, place them inside the **Model/** folder.
 
 ---
 
-## ▶️ Run
+##  Run
 
 ```bash
 python main.py
@@ -101,7 +101,7 @@ python main.py
 
 ---
 
-## 📌 Model Credits
+##  Model Credits
 
 This project uses a **pre-trained image colorization model** developed by:
 
@@ -119,7 +119,7 @@ https://github.com/richzhang/colorization
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - Web Interface using Flask
 - React Frontend
@@ -129,7 +129,7 @@ https://github.com/richzhang/colorization
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Imran Farhat**
 
@@ -138,6 +138,6 @@ https://github.com/Imran-pro99
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
