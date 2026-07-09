@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/banner.png" alt="AI Image Colorization Banner" width="100%">
+</p>
+
+---
+
 <h1 align="center"> AI Image Colorization</h1>
 
 <p align="center">
