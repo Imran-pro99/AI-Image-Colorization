@@ -1,4 +1,4 @@
-<h1 align="center">🎨 AI Image Colorization</h1>
+<h1 align="center"> AI Image Colorization</h1>
 
 <p align="center">
 Automatically convert black & white images into realistic color images using OpenCV DNN and a pre-trained Caffe model.
@@ -15,11 +15,22 @@ Automatically convert black & white images into realistic color images using Ope
 
 ##  Preview
 
-### Result (Black & White - Colorized)
+<p align="center">
+  <img src="results/output_colorized.jpg" width="700" alt="Before and After Colorization">
+</p>
 
 <p align="center">
-  <img src="results/output_colorized.jpg" width="350">
+<b>Left:</b> Original Black & White Image &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<b>Right:</b> AI Colorized Result
 </p>
+
+---
+
+##  About
+
+This project demonstrates how **Deep Learning** and **Computer Vision** can be combined to automatically colorize grayscale images.
+
+The application uses **OpenCV's Deep Neural Network (DNN)** module with a pre-trained **Caffe** model to generate realistic color information from black-and-white photographs.
 
 ---
 
@@ -29,17 +40,20 @@ Automatically convert black & white images into realistic color images using Ope
 - Uses a pre-trained Deep Learning model
 - Built using Python and OpenCV
 - Simple and beginner-friendly code
+- Supports custom input images
 - Easy to customize for your own images
 
 ---
 
 ##  Tech Stack
 
-- Python
-- OpenCV
-- NumPy
-- OpenCV DNN Module
-- Caffe (Pre-trained Model)
+| Technology | Purpose |
+|------------|---------|
+| Python | Programming Language |
+| OpenCV | Image Processing |
+| NumPy | Numerical Computation |
+| OpenCV DNN | Deep Learning Inference |
+| Caffe | Pre-trained Neural Network Model |
 
 ---
 
@@ -54,8 +68,8 @@ AI-Image-Colorization/
 ├── results/
 ├── main.py
 ├── requirements.txt
-├── .gitignore
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ---
@@ -80,9 +94,9 @@ cd AI-Image-Colorization
 pip install -r requirements.txt
 ```
 
-### 4. Download the pre-trained model
+##  Download the Model
 
-The model files are **not included** in this repository.
+The pre-trained model files are **not included** in this repository.
 
 Please follow the instructions inside:
 
@@ -90,11 +104,13 @@ Please follow the instructions inside:
 Model/README.md
 ```
 
-After downloading the files, place them inside the **Model/** folder.
+Download the required files and place them inside the **Model/** directory before running the application.
 
 ---
 
-##  Run
+##  Usage
+
+Run the project:
 
 ```bash
 python main.py
@@ -122,11 +138,12 @@ https://github.com/richzhang/colorization
 
 ##  Future Improvements
 
-- Web Interface using Flask
-- React Frontend
-- Drag & Drop Image Upload
-- Batch Image Colorization
-- GPU Acceleration
+-  Web interface using Flask
+-  React frontend
+-  Batch image processing
+-  Drag & Drop image upload
+-  Cloud deployment
+-  Video colorization support
 
 ---
 
