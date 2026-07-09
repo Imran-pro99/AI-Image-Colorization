@@ -8,8 +8,6 @@ Automatically convert black-and-white images into realistic color images using *
 
 ##  Preview
 
-### Image (Black & White)
-
 ### Result (Black & White - Colorized)
 
 <p align="center">
